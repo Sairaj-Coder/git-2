@@ -21,6 +21,14 @@ This repository serves as a practical guide for learning the fundamentals of Git
 different developes are working on different things such as one is working on js, other css etc 
 so different branches are neccessarey read notes
 
+# merging
+1)we can compare 2 diferent branches by
+git diff <-branch name->
+
+2)git merge <branch name>= to merge
+
+# another way to merge
+git pull request
 
 
 
